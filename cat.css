@@ -1,0 +1,46 @@
+
+body {
+
+    background-color: #E9FFF9;
+}
+
+.cat {
+     background-color: #7FB069;
+     margin: 0.5em;
+     padding: 1em;
+     border-radius: 1em;
+     border: 3px solid #19323C;
+     flex: 1em;
+
+
+    
+ }
+
+ 
+
+ @media (min-width : 960ppx) {
+
+    .cats {
+        display: flex;
+     }
+    
+ }
+
+ fieldset {
+   margin: 1em;
+   border: 0;
+
+ }
+
+
+ button {
+
+    padding: 1em;
+    border: 3px solid;
+    border-radius: 0.5em;
+ }
+
+ input {
+    padding: 1em;
+
+ }
